@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="jade.core.Agent.Interrupted"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="jade.core.behaviours.SequentialBehaviour"/>
+<fullyQualifiedTypeName name="jade.core.behaviours.ParallelBehaviour"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+<fullyQualifiedTypeName name="javafx.scene.control.TextArea"/>
+<fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+<fullyQualifiedTypeName name="javafx.application.Application"/>
+<fullyQualifiedTypeName name="jade.core.behaviours.WakerBehaviour"/>
+<fullyQualifiedTypeName name="jade.core.behaviours.Behaviour"/>
+<fullyQualifiedTypeName name="jade.core.behaviours.OneShotBehaviour"/>
+<fullyQualifiedTypeName name="jade.core.behaviours.CyclicBehaviour"/>
+<fullyQualifiedTypeName name="tp4.AgentTest.Liberer"/>
+<fullyQualifiedTypeName name="tp4.AgentTest.ConsultationBoite"/>
+<fullyQualifiedTypeName name="tp4.AgentTest.Dedans"/>
+<fullyQualifiedTypeName name="tp4.AgentTest.Dehors"/>
+<fullyQualifiedTypeName name="tp4.AgentTest"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="jade.Boot"/>
+<fullyQualifiedTypeName name="jade.core.Agent"/>
+<fullyQualifiedTypeName name="tp6.Robot.libererCase"/>
+<fullyQualifiedTypeName name="tp6.Robot.demanderDeplacer"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+</qualifiedTypeNameHistroy>

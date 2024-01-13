@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tp3.ControlCommunication">
+   <children>
+      <Pane layoutX="6.0" layoutY="6.0" prefHeight="385.0" prefWidth="232.0" style="-fx-background-color: #999;" />
+      <Label layoutX="250.0" layoutY="46.0" text="Agent : a1" />
+      <Label layoutX="250.0" layoutY="80.0" text="Nom Agent Destinataire :" />
+      <Label layoutX="250.0" layoutY="119.0" text="Message à envoyer :" />
+      <Label layoutX="250.0" layoutY="231.0" text="Messages envoyes/recus :" />
+      <Button fx:id="envoyer_Button" layoutX="387.0" layoutY="175.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="108.0" text="Envoyer" />
+      <TextArea fx:id="messageEnvRecus_TextA" layoutX="247.0" layoutY="254.0" prefHeight="132.0" prefWidth="341.0" />
+      <TextField fx:id="nomAgentDest_TextF" layoutX="392.0" layoutY="78.0" />
+      <TextField fx:id="messageEnvoyer_TextF" layoutX="392.0" layoutY="115.0" />
+   </children>
+</AnchorPane>

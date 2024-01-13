@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\LK-Technologie\Documents\MyFiles\Programmation\vs\ALDI\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+497144382.index
+3097334968.index
